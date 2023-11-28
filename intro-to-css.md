@@ -1,2 +1,5 @@
 # Introduction to CSS
 HTMl is just an sketetal layout of a website. We need CSS to design a website, add style to it and make it look beautiful.
+
+# What is CSS
+CSS stands for Cascading Style Sheets. CSS is optional but it coverts an off looking HTML page into a beautiful & responsive website.
