@@ -3,3 +3,6 @@ HTMl is just an sketetal layout of a website. We need CSS to design a website, a
 
 # What is CSS
 CSS stands for Cascading Style Sheets. CSS is optional but it coverts an off looking HTML page into a beautiful & responsive website.
+
+# Installing VS Code
+We will use Microsoft Visual Studio Code as a tool to edit our Code. It is very powerful, free and customizable.
