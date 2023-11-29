@@ -6,3 +6,12 @@ CSS stands for Cascading Style Sheets. CSS is optional but it coverts an off loo
 
 # Installing VS Code
 We will use Microsoft Visual Studio Code as a tool to edit our Code. It is very powerful, free and customizable.
+
+# Your first line of CSS 
+Create a .css file indie your directory and add it to your HTML. Add the following line to your CSS
+
+```
+body{
+    background-color:red;
+}
+```
