@@ -7,6 +7,9 @@ CSS stands for Cascading Style Sheets. CSS is optional but it coverts an off loo
 # Installing VS Code
 We will use Microsoft Visual Studio Code as a tool to edit our Code. It is very powerful, free and customizable.
 
+# Why learn CSS?
+CSS is a very demanded skill in the world of web development. If you are successfully able to master CSS, you can customize your website as per your liking.
+
 # Your first line of CSS 
 Create a .css file indie your directory and add it to your HTML. Add the following line to your CSS
 
